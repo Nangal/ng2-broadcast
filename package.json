@@ -1,0 +1,24 @@
+{
+  "name": "ng2-broadcast",
+  "version": "0.0.2",
+  "description": "Angular2 broadcast module based on Observables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troyanskiy/ng2-broadcast.git"
+  },
+  "keywords": [
+    "ng2-broadcast",
+    "angular2",
+    "angular2-broadcast"
+  ],
+  "author": "Roman Rosluk <roma@redbox.by>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/troyanskiy/ng2-broadcast/issues"
+  },
+  "homepage": "https://github.com/troyanskiy/ng2-broadcast#readme"
+}
